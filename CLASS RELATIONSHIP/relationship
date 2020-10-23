@@ -1,0 +1,24 @@
+Relation ship
+
+association:
+
+aggregation - independent
+Person has a car
+
+composition - dependent
+library has many books
+human has a brain
+
+
+
+
+
+one to one
+Student has an ID card
+
+one to many
+library has many books
+
+many to many
+faculty - student
+
