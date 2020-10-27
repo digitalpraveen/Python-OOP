@@ -1,0 +1,19 @@
+<CreditCard>
+    <card>
+		<name>Visa</name>
+		<creditPoints>5</creditPoints>
+	</card>
+	<card>
+		<name>Master</name>
+        	<creditPoints>7</creditPoints>
+    	</card>
+	<card>
+		<name>Platinum</name>
+        	<creditPoints>10</creditPoints>
+    	</card>
+	<card>
+		<name>Titanium</name>
+	       	<creditPoints>12</creditPoints>
+    	</card>
+</CreditCard>
+
