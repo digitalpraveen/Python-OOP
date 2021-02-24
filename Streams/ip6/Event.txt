@@ -1,0 +1,4 @@
+Birthday Party,Party,8097654123,15000.00,Krishnanand
+Marriage,Family and friends celebration,7098654321,75000.00,Chandan V
+Retirement,Get together Celebration,8097142563,65000.00,Akshay
+Promotion,Friends and family get together,8906754320,72000.00,Chandan V

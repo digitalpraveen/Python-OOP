@@ -1,0 +1,6 @@
+krishanand,9876543210,krishanand@amphisoft.co.in
+Akshay,7891234560,Akshay@amphisoft.co.in
+Aliya,8907123456,Aliyarehamani@amphisoft.co.in
+Chandan,9689701236,Chandan@amphisoft.co.in
+Shashi,8097162534,Shahsi@safe.co.in
+Prasanna,9182736450,Prasanna@safe.co.in
